@@ -1,1 +1,2 @@
-# AULA-10-PREVISAO
+# 10-Previsao
+Criando previsões a partir dos modelos.
